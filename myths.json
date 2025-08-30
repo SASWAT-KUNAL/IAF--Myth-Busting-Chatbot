@@ -1,0 +1,84 @@
+{
+  "myths": [
+    {
+      "myth": "Cracking your knuckles causes arthritis",
+      "truth": "There is no evidence that cracking your knuckles causes arthritis. The sound comes from gas bubbles in the joint fluid."
+    },
+    {
+      "myth": "Goldfish have a 3-second memory",
+      "truth": "Goldfish can actually remember things for months, not just a few seconds."
+    },
+    {
+      "myth": "Bats are blind",
+      "truth": "Bats are not blind. They can see, and many species have very good eyesight."
+    },
+    {
+      "myth": "Humans only use 10% of their brains",
+      "truth": "Neuroscience shows that humans use all parts of their brain, even when at rest."
+    },
+    {
+      "myth": "Eating carrots improves night vision",
+      "truth": "Carrots are healthy and contain Vitamin A, which supports vision, but they do not give superhuman night vision."
+    },
+    {
+      "myth": "Shaving hair makes it grow back thicker",
+      "truth": "Shaving does not change hair thickness. It only makes the tip blunt, which can feel coarser."
+    },
+    {
+      "myth": "Lightning never strikes the same place twice",
+      "truth": "Lightning can strike the same place multiple times, especially tall structures like skyscrapers."
+    },
+    {
+      "myth": "Sugar causes hyperactivity in children",
+      "truth": "Scientific studies have found no direct link between sugar and hyperactivity in children."
+    },
+    {
+      "myth": "You swallow 8 spiders a year while sleeping",
+      "truth": "This is a myth. Spiders generally avoid humans and don’t crawl into mouths while we sleep."
+    },
+    {
+      "myth": "The Great Wall of China is visible from space",
+      "truth": "The Great Wall is not visible to the naked eye from space. Astronauts confirm this."
+    },
+    {
+      "myth": "Chameleons change color to match their surroundings",
+      "truth": "Chameleons mainly change color due to temperature, mood, and communication, not just camouflage."
+    },
+    {
+      "myth": "You should drink 8 glasses of water a day",
+      "truth": "Water needs vary by person. Hydration also comes from food and other beverages."
+    },
+    {
+      "myth": "A penny dropped from a skyscraper can kill someone",
+      "truth": "A penny is too small and light to cause serious harm when dropped from a building."
+    },
+    {
+      "myth": "Humans evolved from chimpanzees",
+      "truth": "Humans and chimpanzees share a common ancestor but evolved separately."
+    },
+    {
+      "myth": "Vaccines cause autism",
+      "truth": "Extensive research shows vaccines do not cause autism. This myth is based on a fraudulent study."
+    },
+    {
+      "myth": "If you touch a baby bird, its mother will abandon it",
+      "truth": "Most birds have a poor sense of smell and will not abandon their chicks if touched by humans."
+    },
+    {
+      "myth": "Ostriches bury their heads in the sand",
+      "truth": "Ostriches do not bury their heads in the sand. They lower their heads to the ground to look for danger."
+    },
+    {
+      "myth": "Coffee stunts your growth",
+      "truth": "There is no scientific evidence that coffee affects growth. Genetics and nutrition determine height."
+    },
+    {
+      "myth": "Touching a toad gives you warts",
+      "truth": "Warts are caused by viruses, not toads. Touching a toad will not give you warts."
+    },
+    {
+      "myth": "You should wait an hour after eating before swimming",
+      "truth": "There is no medical reason to wait an hour. Swimming after eating is safe for most people."
+    }
+  ]
+}
